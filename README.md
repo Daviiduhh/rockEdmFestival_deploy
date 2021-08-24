@@ -1,0 +1,1 @@
+Este repositorio es la version para deploy del repositorio https://github.com/Daviiduhh/rockEdmFestival
